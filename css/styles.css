@@ -1,0 +1,24 @@
+body {
+    background-color: #867070;
+
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #D5B4B4;
+    border-width: 8px;
+    width: 5%;
+  }
+
+  img {
+    height: 200px;
+  }
+
+  h3,h1,h2,h4 {
+    color: #E4D0D0;
+  }
+
+  td,li,p,label {
+    font-weight: bold;
+  }
