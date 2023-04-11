@@ -92,6 +92,7 @@ p {
 .python-img {
     width: 25%;
     float: right;
+    margin-left: 20px;
 }
 
 hr {
@@ -142,4 +143,12 @@ hr {
     text-decoration: none;
   }
 
-  
+  .skill-title {
+    position: relative;
+    top: 100px;
+  }
+
+  .skill-text {
+    position: relative;
+    top: 80px;
+  }
